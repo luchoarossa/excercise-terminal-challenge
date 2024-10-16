@@ -1,1 +1,0 @@
-# excercise-terminal-challenge
